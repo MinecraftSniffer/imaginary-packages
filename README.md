@@ -1,2 +1,2 @@
-# imaginary-packages
-An "official" repo for Imaginary Distro
+# imaginary-packages 
+An "official" repo for Imaginary Distro (Beta)
